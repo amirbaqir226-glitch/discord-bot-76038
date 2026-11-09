@@ -1,1 +1,3 @@
-# discord-bot-76038
+# 🔨 _76038 Bot
+
+Official and secure Discord bot for server protection and management.
